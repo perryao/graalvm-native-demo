@@ -3,6 +3,8 @@
 1. Download graalvm
 
 # Install additional languages
+
+# TODO: figure out why this isn't working
 `graalvm/graalvm-ce-1.0.0-rc6/bin/gu install -c python`
 
 # Rebuild polyglot api
